@@ -35,7 +35,8 @@ This project converts **12V AC to DC** using a **bridge rectifier** and a **capa
 
 ## 5. Schematic Diagram
 Below is the circuit schematic for the **12V AC to DC converter**:
-<img width="400" alt="Schematic Circuit" src="https://github.com/user-attachments/assets/025d0fe9-a32c-459b-a3b8-9f783927a350" />
+
+<img width="500" alt="Schematic Circuit" src="https://github.com/user-attachments/assets/025d0fe9-a32c-459b-a3b8-9f783927a350" />
 
 
 
