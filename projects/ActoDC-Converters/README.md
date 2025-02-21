@@ -70,7 +70,3 @@ The PCB layout of the converter is designed to be compact and efficient.
 
 ## 9. Conclusion
 The **12V AC to DC Converter** is a simple yet effective circuit for obtaining stable DC voltage from an AC source. It can be used in various applications, including power supplies and embedded systems. Future improvements can enhance efficiency and add safety features for more robust operation.
-
----
-
-*Author: [Your Name]*
